@@ -2,7 +2,7 @@
 
 1.  [Predict Next Sequence](https://drive.google.com/file/d/13pe_wCOnxQjTTibWglZlcWAhdA36IJeS/view)
 2.  [Image Classification with CIFAR 100](https://github.com/skj092/Image-Classification-with-CIFAR-100)
-3.  [Image Classification with Stanford Dogs Dataset](https://drive.google.com/file/d/1HbTVJD3BDQ0awTZmezaCmspk80Cwjhkr/view)
+3.  [Image Classification with Stanford Dogs Dataset](https://github.com/skj092/Image-Classification-with-Stanford-Dogs-Dataset)
 4.  [Image Classificatio with Indoor Scenes Images](https://drive.google.com/file/d/1HbTVJD3BDQ0awTZmezaCmspk80Cwjhkr/view)
 5.  [Image Classification with Indoor Scenes Images](https://drive.google.com/file/d/1TZTWyXmpQrleS9Oo6uNaD1RRNGh9CAQQ/view)
 6.  [Image Classification with Tiny ImageNet](https://drive.google.com/file/d/1elbEdM_lMslW7yZkYt_jPxzBgDUMwEEz/view)
