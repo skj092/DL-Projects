@@ -1,4 +1,4 @@
-# DL-Assignments
+# DL-Projects
 
 |S.No|Topic|Status|
 |---|---|---|
