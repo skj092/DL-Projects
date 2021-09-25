@@ -5,7 +5,7 @@
 |1.|[Predict Next Sequence](https://drive.google.com/file/d/13pe_wCOnxQjTTibWglZlcWAhdA36IJeS/view)|Planned|
 |2|[Image Classification with CIFAR 100](https://github.com/skj092/Image-Classification-with-CIFAR-100)||
 |3.|[Image Classification with Stanford Dogs Dataset](https://github.com/skj092/Image-Classification-with-Stanford-Dogs-Dataset)|In Progress|
-|4.|  [Image Classificatio with Indoor Scenes Images](https://drive.google.com/file/d/1HbTVJD3BDQ0awTZmezaCmspk80Cwjhkr/view)
+|4.|  [Image Classificatio with Indoor Scenes Images](https://drive.google.com/file/d/12Nw1b2y5tJsrqMozs3T7KJeRSE3FiveV/view)
 |5. | [Image Classification with Indoor Scenes Images](https://drive.google.com/file/d/1TZTWyXmpQrleS9Oo6uNaD1RRNGh9CAQQ/view)
 |6.  |[Image Classification with Tiny ImageNet](https://drive.google.com/file/d/1elbEdM_lMslW7yZkYt_jPxzBgDUMwEEz/view)
 |7.  |[Object Detection with Oxford-IIIT Pet Dataset](https://drive.google.com/file/d/1uC68irS5Sn-LHbyKluIf910MCQ5eqhY-/view)
