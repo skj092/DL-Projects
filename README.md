@@ -4,7 +4,7 @@
 |---|---|---|
 |1.|[Predict Next Sequence](https://drive.google.com/file/d/13pe_wCOnxQjTTibWglZlcWAhdA36IJeS/view)|Planned|
 |2|[Image Classification with CIFAR 100](https://github.com/skj092/Image-Classification-with-CIFAR-100)|In Progress|
-|3.|[Image Classification with Stanford Dogs Dataset](https://github.com/skj092/Image-Classification-with-Stanford-Dogs-Dataset)|In Progress|
+|3.|[Image Classification with Stanford Dogs Dataset](https://github.com/skj092/Image-Classification-with-Stanford-Dogs-Dataset)|Completed|
 |4.|  [Image Classificatio with Indoor Scenes Images](https://github.com/skj092/Image-Classification-with-Indoor-Scenes-Images)|In Progress|
 |5. | [Image Classification with Indoor Scenes Images](https://github.com/skj092/Image-Classification-with-Indoor-Scenes-Images-2)|In Progress|
 |6.  |[Image Classification with Tiny ImageNet](https://github.com/skj092/Image-Classification-with-Tiny-ImageNet)|In Progress|
