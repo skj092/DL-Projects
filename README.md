@@ -8,7 +8,7 @@
 |4.|  [Image Classificatio with Indoor Scenes Images](https://github.com/skj092/Image-Classification-with-Indoor-Scenes-Images)|In Progress|
 |5. | [Image Classification with Indoor Scenes Images](https://github.com/skj092/Image-Classification-with-Indoor-Scenes-Images-2)|In Progress|
 |6.  |[Image Classification with Tiny ImageNet](https://github.com/skj092/Image-Classification-with-Tiny-ImageNet)|In Progress|
-|7.  |[Object Detection with Oxford-IIIT Pet Dataset](https://github.com/skj092/Object-Detection-with-Oxford-IIIT-Pet-Dataset)
+|7.  |[Object Detection with Oxford-IIIT Pet Dataset](https://github.com/skj092/Object-Detection-with-Oxford-IIIT-Pet-Dataset)|In Progress|
 |8.  |[Object Detection with OpenImages](https://drive.google.com/file/d/1PgSyY1060eisRkh590Xcp9p2LP7z0cI-/view)
 |9.  |[Object Detection with MSCOCO](https://drive.google.com/file/d/1eHUeNklRT9I7Kdcx6_foZxAXP4NvYSRZ/view)
 |10. |[Object Detection with DeepFashion2](https://drive.google.com/file/d/12DwGUbUVWT70HuwSmS9YQWSwoMdizGkU/view)
