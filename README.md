@@ -21,7 +21,7 @@
 |17. |[Generate Human Faces with DCGAN](https://drive.google.com/file/d/1PtVoXhBo5_mT3VcpEI58xjI-XfB8lSYS/view)
 |18. |[Visual Question Answering](https://drive.google.com/file/d/1f5YlzREWijl8GDkMorlAAGnGBHbZAHSV/view)
 |19. |[Human Counting](https://drive.google.com/file/d/1FJBFPLEHT3zwI3Q1gstwXsYxtenEvvaD/view)
-|20. |[Blur the Face](https://github.com/skj092/DL-Projects)|Completed|
+|20. |[Blur the Face](https://github.com/skj092/Face_Blur)|Completed|
 |21. |[Hand Gesture Recognition](https://drive.google.com/file/d/1sfUrpnYCER5KwFfWNZFnQCIswOENj3uX/view)
 |22. |[Vehicle Counting and Classification](https://drive.google.com/file/d/1gNYmbyFd0NrEt7vRhLyyUxbWhAGgqUk5/view)
 |23. |[Receipt Scanner](https://drive.google.com/file/d/1JeyGfekkmkc5UxPU4V9T-Hb1UnkrA_cf/view)
