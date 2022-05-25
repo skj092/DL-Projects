@@ -18,7 +18,7 @@
 |14. |[Coloring old Black & White photos](https://drive.google.com/file/d/1DenTb_uA8UyKnzvGtxNRbzABKBiUM7oo/view)
 |15. |[Neural Style Transfer](https://drive.google.com/file/d/1Yc6N8cfSufzsHphfm3ftYG-OVINaqxtr/view)
 |16. |[Gender and Age Detection](https://drive.google.com/file/d/1A1pJimS8AalCZrNcGlUcv2xhEB4Bre4k/view)
-|17. |[Generate Human Faces with DCGAN](https://drive.google.com/file/d/1PtVoXhBo5_mT3VcpEI58xjI-XfB8lSYS/view)
+|17. |[Generate Human Faces with DCGAN](https://github.com/skj092/Generate-Human-Faces-with-DCGAN)|In Progress|
 |18. |[Visual Question Answering](https://drive.google.com/file/d/1f5YlzREWijl8GDkMorlAAGnGBHbZAHSV/view)
 |19. |[Human Counting](https://drive.google.com/file/d/1FJBFPLEHT3zwI3Q1gstwXsYxtenEvvaD/view)
 |20. |[Blur the Face](https://github.com/skj092/Face_Blur)|Completed|
