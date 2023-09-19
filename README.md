@@ -21,7 +21,7 @@
 |17. |[Gender and Age Detection](https://github.com/skj092/Gender-and-Age-Prediction)|Completed|
 |18. |[Generate Human Faces with DCGAN](https://github.com/skj092/Generate-Human-Faces-with-DCGAN)|Completed|
 |19. |[Visual Question Answering](https://drive.google.com/file/d/1f5YlzREWijl8GDkMorlAAGnGBHbZAHSV/view)
-|20. |[Human Counting](https://drive.google.com/file/d/1FJBFPLEHT3zwI3Q1gstwXsYxtenEvvaD/view)
+|20. |[Human Counting](https://github.com/skj092/human-counting)
 |21. |[Blur the Face](https://github.com/skj092/Face_Blur)|Completed|
 |22. |[Hand Gesture Recognition](https://drive.google.com/file/d/1sfUrpnYCER5KwFfWNZFnQCIswOENj3uX/view)
 |23. |[Vehicle Counting and Classification](https://drive.google.com/file/d/1gNYmbyFd0NrEt7vRhLyyUxbWhAGgqUk5/view)
