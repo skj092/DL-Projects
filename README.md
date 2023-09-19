@@ -25,6 +25,6 @@
 |21. |[Blur the Face](https://github.com/skj092/Face_Blur)|Completed|
 |22. |[Hand Gesture Recognition](https://drive.google.com/file/d/1sfUrpnYCER5KwFfWNZFnQCIswOENj3uX/view)
 |23. |[Vehicle Counting and Classification](https://drive.google.com/file/d/1gNYmbyFd0NrEt7vRhLyyUxbWhAGgqUk5/view)
-|24. |[Receipt Scanner](https://github.com/skj092/Receipt-Scanner)|Planned|
+|24. |[Receipt Scanner](https://github.com/skj092/Receipt-Scanner)|Completed|
 |25. |[Object Tracking for any objects](https://github.com/skj092/OpenCV-Projects/tree/main/Object_Tracking)|Completed|
 |26. |[Image Super-Resolution](https://drive.google.com/file/d/1Be4Re5_Sa8jrSOEUGCKl1r_o2AgnzeJI/view)
