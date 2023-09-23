@@ -14,7 +14,7 @@
 |10. |[Object Detection with MSCOCO](https://drive.google.com/file/d/1eHUeNklRT9I7Kdcx6_foZxAXP4NvYSRZ/view)
 |11. |[Object Detection with DeepFashion2](https://drive.google.com/file/d/12DwGUbUVWT70HuwSmS9YQWSwoMdizGkU/view)
 |12. |[Instance Segmentation with DeepFashion2](https://drive.google.com/file/d/1UGVHNGPXmjkwnvRKgtTfa5XYfe1wFQck/view)
-|13. |[Human Face Detection System](https://github.com/skj092/Human-Face-Detection-System)|In Progress|
+|13. |[Human Face Detection System](https://github.com/skj092/Human-Face-Detection-System)|Completed|
 |14. |[Image caption generator](https://drive.google.com/file/d/1eDMmX3SkDpEdr6_nOhERnnNQBdAkxqw8/view)
 |15. |[Coloring old Black & White photos](https://drive.google.com/file/d/1DenTb_uA8UyKnzvGtxNRbzABKBiUM7oo/view)
 |16. |[Neural Style Transfer](https://drive.google.com/file/d/1Yc6N8cfSufzsHphfm3ftYG-OVINaqxtr/view)
