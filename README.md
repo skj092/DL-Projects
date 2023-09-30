@@ -29,7 +29,7 @@
 |25. |[Receipt Scanner](https://github.com/skj092/Receipt-Scanner)|Completed|
 |26. |[Object Tracking for any objects](https://github.com/skj092/OpenCV-Projects/tree/main/Object_Tracking)|Completed|
 |27. |[Image Super-Resolution](https://drive.google.com/file/d/1Be4Re5_Sa8jrSOEUGCKl1r_o2AgnzeJI/view)
-|28. |[Forgegy-Image-Detection](https://github.com/skj092/Forgegy-Image-Detection-Using-Error-level-Analysis-and-Deep-Learning)|Completed|
+|28. |[Forgery-Image-Detection](https://github.com/skj092/Forgegy-Image-Detection-Using-Error-level-Analysis-and-Deep-Learning)|Completed|
 
 
 
