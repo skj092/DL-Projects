@@ -32,6 +32,7 @@
 |28. |[Forgery-Image-Detection](https://github.com/skj092/Forgegy-Image-Detection-Using-Error-level-Analysis-and-Deep-Learning)|Completed|
 |29. |[Signature_Verification](https://github.com/skj092/Signature_Match)|Completed|
 |30. |[Automatic-License-Plate-Recognition-ALPR](https://github.com/skj092/Automatic-License-Plate-Recognition-ALPR/blob/main/ALPR.ipynb)|Completed|
+|31. |[Leaf Disease Classification](https://github.com/skj092/LeafDiseaseClassification)|Completed|
 
 
 
