@@ -33,6 +33,8 @@
 |29. |[Signature_Verification](https://github.com/skj092/Signature_Match)|Completed|
 |30. |[Automatic-License-Plate-Recognition-ALPR](https://github.com/skj092/Automatic-License-Plate-Recognition-ALPR/blob/main/ALPR.ipynb)|Completed|
 |31. |[Leaf Disease Classification](https://github.com/skj092/LeafDiseaseClassification)|Completed|
+|32. |[Indian Dance Classificaiton](https://github.com/skj092/Indian_Dance_Classificaiton)|Completed|
+
 
 
 
@@ -44,5 +46,6 @@
 |S.No|Topic|Status|
 |---|---|---|
 |1.|[Token-Classification](https://github.com/skj092/Token-Classification)|Completed|
+|2.|[Poetry Generator](https://github.com/skj092/Poetry-Generator)|Completed|
 
 
