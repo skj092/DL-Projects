@@ -41,5 +41,6 @@
 
 |S.No|Topic|Status|
 |---|---|---|
-|1.|[Predict Next Sequence](https://github.com/skj092/Predict-Next-Sequence)|Completed|
+|1.|[Token-Classification](https://github.com/skj092/Token-Classification)|Completed|
+
 
