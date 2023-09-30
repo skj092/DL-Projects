@@ -8,7 +8,7 @@
 |4.| [Image Classificatio with Indoor Scenes Images](https://github.com/skj092/Image-Classification-with-Indoor-Scenes-Images)|Completed|
 |5. |[Image Classification with Indoor Scenes Images](https://github.com/skj092/Image-Classification-with-Indoor-Scenes-Images-2)|Completed|
 |6. |[Image Classification with Tiny ImageNet](https://github.com/skj092/Image-Classification-with-Tiny-ImageNet)|Completed|
-|7. |[Object Detection with Oxford-IIIT Pet Dataset](https://github.com/skj092/Object-Detection-with-Oxford-IIIT-Pet-Dataset)|In Progress|
+|7. |[Object Detection with Oxford-IIIT Pet Dataset](https://github.com/skj092/Object-Detection-with-Oxford-IIIT-Pet-Dataset)|Completed|
 |8. |[Global Wheat Head Detectoin YOLO](https://github.com/skj092/Wheat-Head-Detection-YOLO)|Completed|
 |9. |[Object Detection with OpenImages](https://drive.google.com/file/d/1PgSyY1060eisRkh590Xcp9p2LP7z0cI-/view)
 |10. |[Object Detection with MSCOCO](https://drive.google.com/file/d/1eHUeNklRT9I7Kdcx6_foZxAXP4NvYSRZ/view)
