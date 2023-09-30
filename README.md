@@ -1,4 +1,4 @@
-# DL-Projects
+# Computer Vision Task
 
 |S.No|Topic|Status|
 |---|---|---|
@@ -28,3 +28,12 @@
 |24. |[Receipt Scanner](https://github.com/skj092/Receipt-Scanner)|Completed|
 |25. |[Object Tracking for any objects](https://github.com/skj092/OpenCV-Projects/tree/main/Object_Tracking)|Completed|
 |26. |[Image Super-Resolution](https://drive.google.com/file/d/1Be4Re5_Sa8jrSOEUGCKl1r_o2AgnzeJI/view)
+
+
+
+# NLP Tasks
+
+|S.No|Topic|Status|
+|---|---|---|
+|1.|[Predict Next Sequence](https://github.com/skj092/Predict-Next-Sequence)|Completed|
+
