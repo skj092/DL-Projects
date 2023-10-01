@@ -11,7 +11,7 @@
 |7. |[Object Detection with Oxford-IIIT Pet Dataset](https://github.com/skj092/Object-Detection-with-Oxford-IIIT-Pet-Dataset)|Completed|
 |8. |[Sefty Helmet Detection](https://github.com/skj092/Sefty_Helmet_Detection)|Completed|
 |9. |[Global Wheat Head Detectoin YOLO](https://github.com/skj092/Wheat-Head-Detection-YOLO)|Completed|
-|10. |[Object Detection with OpenImages](https://drive.google.com/file/d/1PgSyY1060eisRkh590Xcp9p2LP7z0cI-/view)|In Progress|
+|10. |[Object Detection with OpenImages](https://github.com/skj092/Object-Detection-with-OpenImages)|In Progress|
 |11. |[Object Detection with MSCOCO](https://drive.google.com/file/d/1eHUeNklRT9I7Kdcx6_foZxAXP4NvYSRZ/view)
 |12. |[Object Detection with DeepFashion2](https://drive.google.com/file/d/12DwGUbUVWT70HuwSmS9YQWSwoMdizGkU/view)
 |13. |[Instance Segmentation with DeepFashion2](https://drive.google.com/file/d/1UGVHNGPXmjkwnvRKgtTfa5XYfe1wFQck/view)
