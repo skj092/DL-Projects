@@ -18,7 +18,7 @@
 |14. |[Human Face Detection System](https://github.com/skj092/Human-Face-Detection-System)|Completed|
 |15. |[Image caption generator](https://drive.google.com/file/d/1eDMmX3SkDpEdr6_nOhERnnNQBdAkxqw8/view)
 |16. |[Coloring old Black & White photos](https://drive.google.com/file/d/1DenTb_uA8UyKnzvGtxNRbzABKBiUM7oo/view)
-|17. |[Neural Style Transfer](https://drive.google.com/file/d/1Yc6N8cfSufzsHphfm3ftYG-OVINaqxtr/view)
+|17. |[Neural Style Transfer](https://drive.google.com/file/d/1Yc6N8cfSufzsHphfm3ftYG-OVINaqxtr/view)|Completed|
 |18. |[Gender and Age Detection](https://github.com/skj092/Gender-and-Age-Prediction)|Completed|
 |19. |[Generate Human Faces with DCGAN](https://github.com/skj092/Generate-Human-Faces-with-DCGAN)|Completed|
 |20. |[Visual Question Answering](https://drive.google.com/file/d/1f5YlzREWijl8GDkMorlAAGnGBHbZAHSV/view)
@@ -28,7 +28,7 @@
 |24. |[Vehicle Counting and Classification](https://drive.google.com/file/d/1gNYmbyFd0NrEt7vRhLyyUxbWhAGgqUk5/view)
 |25. |[Receipt Scanner](https://github.com/skj092/Receipt-Scanner)|Completed|
 |26. |[Object Tracking for any objects](https://github.com/skj092/OpenCV-Projects/tree/main/Object_Tracking)|Completed|
-|27. |[Image Super-Resolution](https://drive.google.com/file/d/1Be4Re5_Sa8jrSOEUGCKl1r_o2AgnzeJI/view)
+|27. |[Image Super-Resolution](https://drive.google.com/file/d/1Be4Re5_Sa8jrSOEUGCKl1r_o2AgnzeJI/view)|Completed|
 |28. |[Forgery-Image-Detection](https://github.com/skj092/Forgegy-Image-Detection-Using-Error-level-Analysis-and-Deep-Learning)|Completed|
 |29. |[Signature_Verification](https://github.com/skj092/Signature_Match)|Completed|
 |30. |[Automatic-License-Plate-Recognition-ALPR](https://github.com/skj092/Automatic-License-Plate-Recognition-ALPR/blob/main/ALPR.ipynb)|Completed|
