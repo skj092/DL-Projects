@@ -1,4 +1,4 @@
-# Computer Vision Task
+# Vision Task
 
 |S.No|Topic|Status|
 |---|---|---|
@@ -36,11 +36,6 @@
 |32. |[Indian Dance Classificaiton](https://github.com/skj092/Indian_Dance_Classificaiton)|Completed|
 
 
-
-
-
-
-
 # NLP Tasks
 
 |S.No|Topic|Status|
@@ -48,4 +43,10 @@
 |1.|[Token-Classification](https://github.com/skj092/Token-Classification)|Completed|
 |2.|[Poetry Generator](https://github.com/skj092/Poetry-Generator)|Completed|
 
+
+# Audio Tasks
+
+|S.No|Topic|Status|
+|---|---|---|
+|1.|[Automatic Speech Recognition](https://github.com/skj092/ASR_Experiment)|Completed|
 
